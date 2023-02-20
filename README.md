@@ -1,5 +1,5 @@
-### Hey There! Mark here 👋
-# A passionate Developer. Check this space for projects coming soon 
+# Hey There! Mark here 👋
+### A passionate Developer. Check this space for projects coming soon 
 ![](https://komarev.com/ghpvc/?username=Lozlink)
 
 
