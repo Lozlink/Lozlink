@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Lozlink)
 
 
-- 🔭 I’m currently working on my personal website
+- 🔭 I’m currently working on an AWS amplify project.
 
 - 🌱 I’m currently learning Typescript!
 
