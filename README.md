@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on an AWS amplify project.
 
-- 🌱 I’m currently learning Typescript!
+- 🌱 I’m currently learning Typescript, Kubernetes/Docker.
 
 You can reach me at my details below:
 https://www.linkedin.com/in/mark-mekhayl-393834137/
