@@ -3,7 +3,7 @@
 
 You can reach me at my details below:
 - https://www.linkedin.com/in/mark-mekhayl-393834137/ 
-- mark@intellicompli.xom.au
+- mark@intellicompli.com.au
 
 <!--
 **Lozlink/Lozlink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
